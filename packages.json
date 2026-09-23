@@ -2,6 +2,7 @@
   {
     "package": "klue",
     "url": "https://github.com/o-frings/klue",
-    "branch": "main"
+    "branch": "main",
+    "subdir": "klue"
   }
 ]
